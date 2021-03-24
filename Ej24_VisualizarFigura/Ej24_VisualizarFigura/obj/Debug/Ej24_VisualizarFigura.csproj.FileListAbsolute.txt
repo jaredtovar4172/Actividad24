@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\bin\Debug\Ej24_VisualizarFigura.exe.config
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\bin\Debug\Ej24_VisualizarFigura.exe
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\bin\Debug\Ej24_VisualizarFigura.pdb
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.Form1.resources
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.exe
+C:\Users\jared\source\repos\Ej24_VisualizarFigura\Ej24_VisualizarFigura\obj\Debug\Ej24_VisualizarFigura.pdb
